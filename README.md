@@ -1,6 +1,6 @@
 Clone repository to local directory with:
 ```
-git clone https://github.com/murekswork/zakupki_crawler
+git clone https://github.com/murekswork/zakupki_solution
 cd zakupki_crawler
 ```
 Create docker containers with:
